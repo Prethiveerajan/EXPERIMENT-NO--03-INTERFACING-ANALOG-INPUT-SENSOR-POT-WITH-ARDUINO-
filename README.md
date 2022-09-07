@@ -95,7 +95,7 @@ void loop()
 **
 **Simulation output:** 
 **
-[My image](we1.png)
+[!output](we1.png)
 
 
 
