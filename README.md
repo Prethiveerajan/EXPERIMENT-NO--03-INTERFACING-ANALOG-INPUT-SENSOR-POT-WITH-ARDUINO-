@@ -93,7 +93,7 @@ void loop()
 ```
  
 ## output:
-[!output](we1.png)
+![ouput](we1.png)
 
 
 
