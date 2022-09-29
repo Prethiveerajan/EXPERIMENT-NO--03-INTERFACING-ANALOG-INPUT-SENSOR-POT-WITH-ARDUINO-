@@ -95,6 +95,8 @@ void loop()
 ## output:
 ![ouput](we2.png)
 ![output](we1.png)
+![image](https://user-images.githubusercontent.com/94233064/192985266-20ff10a4-4e2f-4933-94f1-c9bd5eb8bec6.png)
+
 
 
 
